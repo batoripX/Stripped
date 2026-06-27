@@ -1,4 +1,6 @@
-# Stripped-1 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" width="100%" height="150">
+# Stripped-1
+<img width="600" height="150" alt="gemini-svg" src="https://github.com/user-attachments/assets/2c928791-50af-4725-900a-ed92528cafbe" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" width="100%" height="150">
   <!-- Left Yellow Slim Half-Crescent -->
   <path d="M 75,25 
            C 50,45  50,105 75,125 
@@ -22,4 +24,3 @@
            C 538,100 538,50  525,25 Z" 
         fill="#FFD700" />
 </svg>
-
