@@ -1,6 +1,6 @@
-# Stripped-1
+# Stripped
 
-Stripped-1 is a lightweight, zero-dependency, 64-bit native game engine built from first principles using modern C++20. Designed exclusively for developers, advanced modders, and power users, the framework rejects third-party middleware and runtime web abstractions in favor of a monolithic, data-oriented architecture compiled via LLVM-MinGW and `libc++`.
+Stripped Also known as Stripped 1 is a lightweight, zero-dependency, 64-bit native game engine built from first principles using modern C++20. Designed exclusively for developers, advanced modders, and power users, the framework rejects third-party middleware and runtime web abstractions in favor of a monolithic, data-oriented architecture compiled via LLVM-MinGW and `libc++`.
 
 ## Technical Architecture & Design Constraints
 
@@ -11,4 +11,4 @@ Stripped-1 is a lightweight, zero-dependency, 64-bit native game engine built fr
 * **Hardware Exhaustion Handling:** Features a deterministic eviction pipeline for runtime assets to optimize physical VRAM boundaries. If memory allocation hits definitive physical hardware limits, the engine executes a graceful, controlled shutdown and writes detailed system architecture failure diagnostics directly to disk.
 
 ## Licensing & Distribution
-Stripped-1 is fully open-source software distributed under the **GNU GPL v3** license. The project enforces complete transparency of source code while legally shielding the engine from proprietary or closed-source rebranding.
+Stripped is fully open-source software distributed under the **GNU GPL v3** license. The project enforces complete transparency of source code while legally shielding the engine from proprietary or closed-source rebranding.
